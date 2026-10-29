@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "categoria": "Lo que me haces sentir",
+    "mensaje": "No sé cómo llegaste a mi vida, pero hay algo en ti que hace que me den ganas de conocerte un poquito más cada día. ✨"
+  },
+  {
+    "id": 2,
+    "categoria": "Lo que me haces sentir",
+    "mensaje": "Hay personas con las que compartes un rato y, aun después de despedirte, te quedas pensando en lo bonito que fue ese momento. Tú me haces sentir eso. 🌷"
+  },
+  {
+    "id": 3,
+    "categoria": "Indirecta bonita",
+    "mensaje": "A veces uno no necesita conocer demasiado a alguien para quedarse con ganas de descubrir todo lo que lleva dentro. 👀💗"
+  },
+  {
+    "id": 4,
+    "categoria": "Un recuerdo",
+    "mensaje": "Todavía recuerdo el día que estuvimos juntos. No sé si te lo imaginas, pero yo me sentí muy feliz de compartir ese ratito contigo. 🥹💕"
+  },
+  {
+    "id": 5,
+    "categoria": "Para hacerte sonreír",
+    "mensaje": "Tengo una pequeña queja contigo: no es justo que alguien tenga esa sonrisa y luego pretenda que uno no se acuerde de ella. JAJAJA 😭❤️"
+  },
+  {
+    "id": 6,
+    "categoria": "Conocerte",
+    "mensaje": "Me gustaría conocer esas pequeñas cosas que te hacen ser tú: tus gustos, tus sueños, tus manías y esas cosas que quizá casi nadie nota. 🌻"
+  },
+  {
+    "id": 7,
+    "categoria": "Indirecta bonita",
+    "mensaje": "Si algún día me preguntas qué me gustaría hacer contigo, probablemente te diría que cualquier plan estaría bien si puedo compartirlo contigo. ☁️💗"
+  },
+  {
+    "id": 8,
+    "categoria": "Tu camino",
+    "mensaje": "Me gusta pensar en todo lo que todavía nos falta por aprender, construir y descubrir en nuestras vidas. Sería bonito conocer más de la tuya. 🌱✨"
+  },
+  {
+    "id": 9,
+    "categoria": "Un cumplido",
+    "mensaje": "Eres hermosa, pero hay algo más que me llama la atención de ti y que todavía quiero descubrir. Creo que por eso me dan tantas ganas de conocerte. 🫶🏻"
+  },
+  {
+    "id": 10,
+    "categoria": "Una confesión",
+    "mensaje": "A veces siento que soy medio torpe para expresar lo que pienso, pero si algo tengo claro es que me gustaría compartir más momentos contigo. 🤍"
+  },
+  {
+    "id": 11,
+    "categoria": "Un recuerdo",
+    "mensaje": "Hay momentos que duran poquito, pero dejan una sensación bonita que permanece mucho después. Gracias por regalarme uno de esos. 🥹🌙"
+  },
+  {
+    "id": 12,
+    "categoria": "Una invitación",
+    "mensaje": "Me gustaría volver a verte, aunque técnicamente no me debas nada JAJAJA. Pero admito que sí me haría mucha ilusión. 🤭❤️"
+  },
+  {
+    "id": 13,
+    "categoria": "Lo que me haces sentir",
+    "mensaje": "No sé explicarlo muy bien, pero conocerte me dejó una sensación bonita que todavía aparece cuando me acuerdo de ti. ✨"
+  },
+  {
+    "id": 14,
+    "categoria": "Para hacerte sonreír",
+    "mensaje": "Vengo a informarte que apareciste en mis pensamientos sin pedir permiso. No sé si eso se pueda denunciar, pero aquí estamos. 😂💗"
+  },
+  {
+    "id": 15,
+    "categoria": "Conocerte",
+    "mensaje": "Quiero conocer más que tu sonrisa bonita; también quiero saber qué te emociona, qué te inspira y qué te hace sentir en paz. 🌼"
+  },
+  {
+    "id": 16,
+    "categoria": "Indirecta bonita",
+    "mensaje": "Qué curioso que algunas personas despierten curiosidad sin proponérselo. Tú tienes un poquito de la culpa de eso. 🤭✨"
+  },
+  {
+    "id": 17,
+    "categoria": "Un cumplido",
+    "mensaje": "Tu sonrisa tiene esa clase de encanto que se queda dando vueltas en la cabeza incluso después de que el momento terminó. 😊❤️"
+  },
+  {
+    "id": 18,
+    "categoria": "Una confesión",
+    "mensaje": "Quizá a veces digo las cosas de una manera medio rara, pero detrás de mi torpeza hay ganas sinceras de acercarme a ti. 🫣🤍"
+  },
+  {
+    "id": 19,
+    "categoria": "Una invitación",
+    "mensaje": "Me gustaría que algún día compartiéramos otro rato, sin afán y sin un plan complicado; simplemente conversar y disfrutar el momento. ☕🌷"
+  },
+  {
+    "id": 20,
+    "categoria": "Tu camino",
+    "mensaje": "Admiro a las personas que siguen construyendo sus sueños incluso cuando el camino se pone difícil. Espero que nunca te falten motivos para seguir. 🌱"
+  },
+  {
+    "id": 21,
+    "categoria": "Para hacerte sonreír",
+    "mensaje": "Si recibes esta tarjeta, oficialmente tienes permiso de sonreír un poquito. Si ya estabas sonriendo, entonces misión cumplida. 😌💌"
+  },
+  {
+    "id": 22,
+    "categoria": "Lo que me haces sentir",
+    "mensaje": "Hay algo lindo en descubrir a alguien poco a poco, sin tener que saberlo todo desde el principio. Me gustaría vivir esa parte contigo. 🌙"
+  },
+  {
+    "id": 23,
+    "categoria": "Indirecta bonita",
+    "mensaje": "No quiero adelantar capítulos de una historia que apenas empieza, pero sí me da curiosidad saber qué momentos bonitos podrían venir. 📖💗"
+  },
+  {
+    "id": 24,
+    "categoria": "Un recuerdo",
+    "mensaje": "Me acuerdo de lo cerca que estuvimos y de lo feliz que me sentí. Hay recuerdos pequeños que uno guarda con una sonrisa. 🥹"
+  },
+  {
+    "id": 25,
+    "categoria": "Conocerte",
+    "mensaje": "¿Qué cosa pequeña te puede mejorar un día difícil? Me gustaría conocer esas cositas que te hacen feliz. 🌻"
+  },
+  {
+    "id": 26,
+    "categoria": "Un cumplido",
+    "mensaje": "Me parece bonito que una persona pueda llamar la atención por su apariencia y, al mismo tiempo, despertar ganas de conocer lo que lleva por dentro. 💕"
+  },
+  {
+    "id": 27,
+    "categoria": "Una confesión",
+    "mensaje": "No pretendo tener las palabras perfectas. Prefiero que, si nos seguimos conociendo, puedas descubrir con el tiempo cómo soy de verdad. 🤍"
+  },
+  {
+    "id": 28,
+    "categoria": "Para hacerte sonreír",
+    "mensaje": "Esta tarjeta no trae regalos ni chocolates, pero sí viene con una intención: sacarte una sonrisita. 🍫😄"
+  },
+  {
+    "id": 29,
+    "categoria": "Una invitación",
+    "mensaje": "Creo que una buena conversación, algo rico para comer y tu compañía serían un plan bastante difícil de superar. 🥐☕"
+  },
+  {
+    "id": 30,
+    "categoria": "Tu camino",
+    "mensaje": "Ojalá te vaya bonito en eso que estás construyendo. Que un día mires atrás y te sientas orgullosa de todo lo que lograste. 🌟"
+  },
+  {
+    "id": 31,
+    "categoria": "Lo que me haces sentir",
+    "mensaje": "A veces no hace falta que pase algo enorme para que un momento sea especial. A mí me bastó compartir un ratito contigo. 🌷"
+  },
+  {
+    "id": 32,
+    "categoria": "Indirecta bonita",
+    "mensaje": "Tengo la teoría de que volver a encontrarse con alguien que te dejó una sensación bonita puede mejorar cualquier día. Solo es una teoría, claro. 👀💞"
+  },
+  {
+    "id": 33,
+    "categoria": "Conocerte",
+    "mensaje": "Me gustaría saber cuáles son esas cosas de las que podrías hablar durante horas sin aburrirte. Quiero descubrir tu versión más emocionada. ✨"
+  },
+  {
+    "id": 34,
+    "categoria": "Una confesión",
+    "mensaje": "Puede que no siempre sepa cómo actuar cuando alguien me gusta, pero sí sé que quiero ser sincero con lo que siento. 🫣❤️"
+  },
+  {
+    "id": 35,
+    "categoria": "Un cumplido",
+    "mensaje": "Tienes algo que me llama la atención y no se resume solamente en lo bonita que eres. Hay algo de ti que me da curiosidad. 🌹"
+  },
+  {
+    "id": 36,
+    "categoria": "Para hacerte sonreír",
+    "mensaje": "Recordatorio amistoso: toma agüita, descansa cuando puedas y no olvides que hoy también mereces algo bonito. 💧🌸"
+  },
+  {
+    "id": 37,
+    "categoria": "Tu camino",
+    "mensaje": "No tienes que resolver toda tu vida de una vez. Paso a paso también se llega lejos. Confía en lo que estás construyendo. 🌱"
+  },
+  {
+    "id": 38,
+    "categoria": "Una invitación",
+    "mensaje": "Me gustaría tener otra oportunidad de hablar contigo y descubrir si las horas también se pasan rápido cuando conversamos. ☀️"
+  },
+  {
+    "id": 39,
+    "categoria": "Un recuerdo",
+    "mensaje": "Aquel ratito contigo fue más bonito de lo que probablemente alcancé a demostrar. A veces uno se queda corto para expresar lo que siente. 💗"
+  },
+  {
+    "id": 40,
+    "categoria": "Indirecta bonita",
+    "mensaje": "No sé si esto cuenta como indirecta, pero si alguien me preguntara a quién me gustaría volver a ver, puede que tu nombre apareciera por ahí. 🤭"
+  },
+  {
+    "id": 41,
+    "categoria": "Conocerte",
+    "mensaje": "Quiero saber qué música te acompaña, qué lugares te gustan y cuáles son esos pequeños detalles que hacen que un día sea perfecto para ti. 🎶🌷"
+  },
+  {
+    "id": 42,
+    "categoria": "Lo que me haces sentir",
+    "mensaje": "Me gusta esa sensación de tener mucho por descubrir de alguien. Hace que conocerla sea una aventura tranquila, sin necesidad de correr. 🦋"
+  },
+  {
+    "id": 43,
+    "categoria": "Para hacerte sonreír",
+    "mensaje": "Si hoy el día está pesado, imagina que esta tarjeta te está dando un abrazo pequeñito. De esos que no solucionan todo, pero acompañan. 🫂💗"
+  },
+  {
+    "id": 44,
+    "categoria": "Una confesión",
+    "mensaje": "No quiero impresionarte fingiendo ser alguien distinto. Prefiero que me conozcas como soy, con mis ocurrencias y mis momentos de torpeza. 😅🤍"
+  },
+  {
+    "id": 45,
+    "categoria": "Un cumplido",
+    "mensaje": "Tus ojos, tu sonrisa y tu forma de ser se me quedaron en la memoria. No voy a fingir que no me pareciste preciosa. 🥹❤️"
+  },
+  {
+    "id": 46,
+    "categoria": "Tu camino",
+    "mensaje": "Espero que nunca tengas que hacerte pequeña para encajar en la vida de alguien. Tus sueños y tu forma de ser merecen espacio. 🌻"
+  },
+  {
+    "id": 47,
+    "categoria": "Una invitación",
+    "mensaje": "Un día de estos podríamos buscar una excusa para conversar un buen rato. Aunque, pensándolo bien, no necesitamos una excusa tan elaborada. ☕😉"
+  },
+  {
+    "id": 48,
+    "categoria": "Indirecta bonita",
+    "mensaje": "Hay planes que suenan bien por el lugar y otros por la persona con quien los compartes. Creo que contigo me interesaría más lo segundo. 💕"
+  },
+  {
+    "id": 49,
+    "categoria": "Lo que me haces sentir",
+    "mensaje": "Me alegra que nuestros caminos se hayan cruzado, aunque todavía nos quede tanto por saber el uno del otro. ✨"
+  },
+  {
+    "id": 50,
+    "categoria": "Para hacerte sonreír",
+    "mensaje": "Esta tarjeta confirma que eres oficialmente responsable de al menos una distracción en mi día. No hay multa, solo una sonrisa. 😂💌"
+  },
+  {
+    "id": 51,
+    "categoria": "Conocerte",
+    "mensaje": "También quiero conocer tus días normales, esos en los que no pasa nada extraordinario. A veces ahí es donde aparecen las mejores conversaciones. 🌿"
+  },
+  {
+    "id": 52,
+    "categoria": "Una confesión",
+    "mensaje": "Si alguna vez parezco nervioso o digo alguna bobada, tenme un poquito de paciencia. A veces mi cerebro se toma vacaciones cuando estoy contigo. JAJAJA 😭"
+  },
+  {
+    "id": 53,
+    "categoria": "Un recuerdo",
+    "mensaje": "Me acuerdo de tus besos y sí, me gustaría volver a sentir esa cercanía contigo, siempre que tú también quieras. 💋❤️"
+  },
+  {
+    "id": 54,
+    "categoria": "Tu camino",
+    "mensaje": "Ojalá tus esfuerzos de hoy te acerquen a esa vida que sueñas. Incluso los pasos chiquitos cuentan, aunque a veces no lo parezca. 🌟"
+  },
+  {
+    "id": 55,
+    "categoria": "Indirecta bonita",
+    "mensaje": "No sé qué piensas cuando hablamos, pero yo a veces termino la conversación con ganas de que hubiera durado un poquito más. 🤍"
+  },
+  {
+    "id": 56,
+    "categoria": "Un cumplido",
+    "mensaje": "Me gusta que seas tú, sin tener que convertirte en alguien perfecta para los demás. La autenticidad tiene algo muy bonito. 🌷"
+  },
+  {
+    "id": 57,
+    "categoria": "Una invitación",
+    "mensaje": "Me gustaría compartir contigo un momento sin mirar tanto el reloj, conversar de cualquier cosa y dejar que el rato pase tranquilo. 🌙"
+  },
+  {
+    "id": 58,
+    "categoria": "Lo que me haces sentir",
+    "mensaje": "No sé qué nombre ponerle a esta curiosidad que siento por ti, así que por ahora la voy a llamar ganas de conocerte más. 🦋"
+  },
+  {
+    "id": 59,
+    "categoria": "Para hacerte sonreír",
+    "mensaje": "Ojalá esta tarjeta te encuentre en un buen momento. Y si no, espero que al menos te regale una pequeña razón para sonreír. 🌈"
+  },
+  {
+    "id": 60,
+    "categoria": "Conocerte",
+    "mensaje": "¿Cuál es ese sueño que te emociona tanto que hablar de él te cambia la cara? Algún día me gustaría escucharte contarlo. ✨"
+  },
+  {
+    "id": 61,
+    "categoria": "Una confesión",
+    "mensaje": "Me gusta la idea de acercarme a ti sin apresurar nada, dejando que las cosas se den con sinceridad y que ambos nos sintamos cómodos. 🤍"
+  },
+  {
+    "id": 62,
+    "categoria": "Un recuerdo",
+    "mensaje": "Hay abrazos que uno todavía no ha dado y ya le parecen una buena idea. Este mensaje es una forma tímida de pedirte uno algún día. 🫂💕"
+  },
+  {
+    "id": 63,
+    "categoria": "Indirecta bonita",
+    "mensaje": "Qué peligro tener una sonrisa bonita y además despertar curiosidad. Hay gente que no facilita nada, ¿sí o qué? JAJAJA 🤭"
+  },
+  {
+    "id": 64,
+    "categoria": "Tu camino",
+    "mensaje": "Que nunca te falte la valentía para empezar de nuevo cuando lo necesites. Cambiar de rumbo también puede ser una forma de avanzar. 🌱"
+  },
+  {
+    "id": 65,
+    "categoria": "Un cumplido",
+    "mensaje": "Hay algo bonito en la forma en que alguien se expresa cuando habla de lo que le importa. Me gustaría descubrir más de esa parte de ti. 💗"
+  },
+  {
+    "id": 66,
+    "categoria": "Una invitación",
+    "mensaje": "Si te provoca, algún día podríamos salir a comer algo rico y hablar de la vida. Sin expectativas raras, solo pasar un rato agradable. 🍰"
+  },
+  {
+    "id": 67,
+    "categoria": "Lo que me haces sentir",
+    "mensaje": "Me gusta pensar que todavía hay muchas cosas bonitas que podemos descubrir de las personas que conocemos. Tú eres una de esas curiosidades para mí. 🌼"
+  },
+  {
+    "id": 68,
+    "categoria": "Para hacerte sonreír",
+    "mensaje": "Vine a dejarte un mensaje importante: eres una persona que merece cosas bonitas. Listo, comunicado oficial entregado. 🫡🌸"
+  },
+  {
+    "id": 69,
+    "categoria": "Conocerte",
+    "mensaje": "Quiero saber qué te hace reír hasta que te duela la barriga. Siento que esa versión tuya debe ser especialmente bonita. 😂💞"
+  },
+  {
+    "id": 70,
+    "categoria": "Una confesión",
+    "mensaje": "No espero que una tarjeta cambie nada ni que tengas que responder de una forma especial. Solo quería regalarte unas palabras sinceras. 💌"
+  },
+  {
+    "id": 71,
+    "categoria": "Indirecta bonita",
+    "mensaje": "Hay personas a las que uno invita por educación y personas a las que de verdad le hace ilusión ver. Adivina en qué grupo estás. 😉❤️"
+  },
+  {
+    "id": 72,
+    "categoria": "Tu camino",
+    "mensaje": "Espero que encuentres gente que celebre tus logros, te escuche en los días difíciles y te anime a seguir siendo tú. 🌻"
+  },
+  {
+    "id": 73,
+    "categoria": "Un recuerdo",
+    "mensaje": "Cuando pienso en aquel día, me acuerdo de lo bien que me sentí a tu lado. Me gustaría crear otro recuerdo así contigo, si también te nace. 🥹"
+  },
+  {
+    "id": 74,
+    "categoria": "Un cumplido",
+    "mensaje": "No voy a mentir: me pareciste muy bonita desde el principio. Pero lo que más me interesa ahora es descubrir quién eres más allá de esa primera impresión. ❤️"
+  },
+  {
+    "id": 75,
+    "categoria": "Una invitación",
+    "mensaje": "Me gustaría volver a compartir tiempo contigo. Podemos empezar con algo sencillo; a veces los mejores planes son los que no necesitan mucha preparación. ☀️"
+  },
+  {
+    "id": 76,
+    "categoria": "Lo que me haces sentir",
+    "mensaje": "No sé qué traerá el futuro, y tampoco quiero adelantarme. Por ahora me basta con saber que me gustaría conocerte un poco más. 🌙"
+  },
+  {
+    "id": 77,
+    "categoria": "Para hacerte sonreír",
+    "mensaje": "Si esta tarjeta fuera una persona, probablemente estaría diciendo: hola, vine a recordarte que alguien espera que tengas un día bonito. 😄🌷"
+  },
+  {
+    "id": 78,
+    "categoria": "Conocerte",
+    "mensaje": "Me gustaría conocer tus historias favoritas, las cosas que te dan miedo y aquello que te hace sentir valiente. Todo eso también forma parte de ti. ✨"
+  },
+  {
+    "id": 79,
+    "categoria": "Una confesión",
+    "mensaje": "Me gustas, me pareces hermosa y me da ilusión la posibilidad de seguir conociéndote. Quería decirlo de una manera sencilla, sin adornarlo demasiado. ❤️"
+  },
+  {
+    "id": 80,
+    "categoria": "Una invitación",
+    "mensaje": "Y si llegaste hasta esta tarjeta, aquí va mi propuesta más sincera: me gustaría volver a verte, darte otro beso si tú quieres y seguir descubriendo qué bonito puede ser conocernos. 💗🌷"
+  }
+]
